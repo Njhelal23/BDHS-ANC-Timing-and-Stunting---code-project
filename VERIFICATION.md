@@ -1,6 +1,6 @@
 # Local verification
 
-Checked on 27 October 2026 using R 4.6.0 (Windows). This records the observed environment; it does not adopt the R 4.6.1 / RStudio version stated in the source Word file.
+Checked on 27 October 2026 using R 4.6.0 (Windows). This records the observed environment; RStudio version stated in the source Word file.
 
 ## Observed reproduction
 
