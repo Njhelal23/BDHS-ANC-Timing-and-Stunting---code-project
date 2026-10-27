@@ -1,0 +1,19 @@
+# Keep restricted data and local analysis products off GitHub.
+data/
+private_data/
+results/
+work/
+*.dta
+*.DTA
+*.sav
+*.sas7bdat
+*.csv
+*.rds
+*.RData
+*.Rhistory
+.Ruserdata
+.Rproj.user/
+.Renviron
+.env
+*.zip
+*.ZIP
